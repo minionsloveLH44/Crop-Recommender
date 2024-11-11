@@ -39,6 +39,6 @@ if st.button("Predict"):
     - **Water Efficiency**: Known for its water efficiency, making it suitable for natural water conservation practices.
     - **Organic Fertilizer Recommendations**: Compost and green manure can enhance growth without synthetic inputs.
     - **Biodiversity Support**: Encourages diversity in farming systems, beneficial for soil health and pest control.
-    - **TIPS**:"Use clover, legumes, or vetch for natural soil protection 🌱.
+    - **Tips**:Use clover, legumes, or vetch for natural soil protection 🌱.
                Rotate crops like tomatoes with beans to enrich soil naturally 🌿.
     """)
